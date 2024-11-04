@@ -1,0 +1,324 @@
+{
+    "time_slot_interval": 0.166666667,
+    "n_requests": 1000,
+    "uavs": [
+        {
+            "uav_0": {
+                "batt_lvl": 46.62,
+                "ram_cap": 2.0,
+                "cpu_freq": 1.5
+            }
+        },
+        {
+            "uav_1": {
+                "batt_lvl": 46.62,
+                "ram_cap": 2.0,
+                "cpu_freq": 1.5
+            }
+        },
+        {
+            "uav_2": {
+                "batt_lvl": 46.62,
+                "ram_cap": 2.0,
+                "cpu_freq": 1.5
+            }
+        },
+        {
+            "uav_3": {
+                "batt_lvl": 46.62,
+                "ram_cap": 2.0,
+                "cpu_freq": 1.5
+            }
+        },
+        {
+            "uav_4": {
+                "batt_lvl": 46.62,
+                "ram_cap": 2.0,
+                "cpu_freq": 1.5
+            }
+        },
+        {
+            "uav_5": {
+                "batt_lvl": 46.62,
+                "ram_cap": 2.0,
+                "cpu_freq": 1.5
+            }
+        },
+        {
+            "uav_6": {
+                "batt_lvl": 46.62,
+                "ram_cap": 2.0,
+                "cpu_freq": 1.5
+            }
+        },
+        {
+            "uav_7": {
+                "batt_lvl": 46.62,
+                "ram_cap": 2.0,
+                "cpu_freq": 1.5
+            }
+        },
+        {
+            "uav_8": {
+                "batt_lvl": 46.62,
+                "ram_cap": 2.0,
+                "cpu_freq": 1.5
+            }
+        },
+        {
+            "uav_9": {
+                "batt_lvl": 46.62,
+                "ram_cap": 2.0,
+                "cpu_freq": 1.5
+            }
+        },
+        {
+            "uav_10": {
+                "batt_lvl": 46.62,
+                "ram_cap": 2.0,
+                "cpu_freq": 1.5
+            }
+        },
+        {
+            "uav_11": {
+                "batt_lvl": 46.62,
+                "ram_cap": 2.0,
+                "cpu_freq": 1.5
+            }
+        },
+        {
+            "uav_12": {
+                "batt_lvl": 46.62,
+                "ram_cap": 2.0,
+                "cpu_freq": 1.5
+            }
+        },
+        {
+            "uav_13": {
+                "batt_lvl": 46.62,
+                "ram_cap": 2.0,
+                "cpu_freq": 1.5
+            }
+        },
+        {
+            "uav_14": {
+                "batt_lvl": 46.62,
+                "ram_cap": 2.0,
+                "cpu_freq": 1.5
+            }
+        },
+        {
+            "uav_15": {
+                "batt_lvl": 46.62,
+                "ram_cap": 2.0,
+                "cpu_freq": 1.5
+            }
+        },
+        {
+            "uav_16": {
+                "batt_lvl": 46.62,
+                "ram_cap": 2.0,
+                "cpu_freq": 1.5
+            }
+        },
+        {
+            "uav_17": {
+                "batt_lvl": 46.62,
+                "ram_cap": 2.0,
+                "cpu_freq": 1.5
+            }
+        },
+        {
+            "uav_18": {
+                "batt_lvl": 46.62,
+                "ram_cap": 2.0,
+                "cpu_freq": 1.5
+            }
+        },
+        {
+            "uav_19": {
+                "batt_lvl": 46.62,
+                "ram_cap": 2.0,
+                "cpu_freq": 1.5
+            }
+        },
+        {
+            "uav_20": {
+                "batt_lvl": 46.62,
+                "ram_cap": 2.0,
+                "cpu_freq": 1.5
+            }
+        },
+        {
+            "uav_21": {
+                "batt_lvl": 46.62,
+                "ram_cap": 2.0,
+                "cpu_freq": 1.5
+            }
+        },
+        {
+            "uav_22": {
+                "batt_lvl": 46.62,
+                "ram_cap": 2.0,
+                "cpu_freq": 1.5
+            }
+        },
+        {
+            "uav_23": {
+                "batt_lvl": 46.62,
+                "ram_cap": 2.0,
+                "cpu_freq": 1.5
+            }
+        },
+        {
+            "uav_24": {
+                "batt_lvl": 46.62,
+                "ram_cap": 2.0,
+                "cpu_freq": 1.5
+            }
+        },
+        {
+            "uav_25": {
+                "batt_lvl": 46.62,
+                "ram_cap": 2.0,
+                "cpu_freq": 1.5
+            }
+        },
+        {
+            "uav_26": {
+                "batt_lvl": 46.62,
+                "ram_cap": 2.0,
+                "cpu_freq": 1.5
+            }
+        },
+        {
+            "uav_27": {
+                "batt_lvl": 46.62,
+                "ram_cap": 2.0,
+                "cpu_freq": 1.5
+            }
+        },
+        {
+            "uav_28": {
+                "batt_lvl": 46.62,
+                "ram_cap": 2.0,
+                "cpu_freq": 1.5
+            }
+        },
+        {
+            "uav_29": {
+                "batt_lvl": 46.62,
+                "ram_cap": 2.0,
+                "cpu_freq": 1.5
+            }
+        },
+        {
+            "uav_30": {
+                "batt_lvl": 46.62,
+                "ram_cap": 2.0,
+                "cpu_freq": 1.5
+            }
+        },
+        {
+            "uav_31": {
+                "batt_lvl": 46.62,
+                "ram_cap": 2.0,
+                "cpu_freq": 1.5
+            }
+        },
+        {
+            "uav_32": {
+                "batt_lvl": 46.62,
+                "ram_cap": 2.0,
+                "cpu_freq": 1.5
+            }
+        },
+        {
+            "uav_33": {
+                "batt_lvl": 46.62,
+                "ram_cap": 2.0,
+                "cpu_freq": 1.5
+            }
+        },
+        {
+            "uav_34": {
+                "batt_lvl": 46.62,
+                "ram_cap": 2.0,
+                "cpu_freq": 1.5
+            }
+        },
+        {
+            "uav_35": {
+                "batt_lvl": 46.62,
+                "ram_cap": 2.0,
+                "cpu_freq": 1.5
+            }
+        },
+        {
+            "uav_36": {
+                "batt_lvl": 46.62,
+                "ram_cap": 2.0,
+                "cpu_freq": 1.5
+            }
+        },
+        {
+            "uav_37": {
+                "batt_lvl": 46.62,
+                "ram_cap": 2.0,
+                "cpu_freq": 1.5
+            }
+        },
+        {
+            "uav_38": {
+                "batt_lvl": 46.62,
+                "ram_cap": 2.0,
+                "cpu_freq": 1.5
+            }
+        },
+        {
+            "uav_39": {
+                "batt_lvl": 46.62,
+                "ram_cap": 2.0,
+                "cpu_freq": 1.5
+            }
+        }
+    ],
+    "services": [
+        {
+            "serv_0": {
+                "cpu_cycles_per_deploy": 0.9,
+                "cpu_cycles_per_request": 0.002,
+                "ram_req": 1.0,
+                "input_size": 0.20,
+                "replicas": 4
+            }
+        },
+        {
+            "serv_1": {
+                "cpu_cycles_per_deploy": 0.6,
+                "cpu_cycles_per_request": 0.002,
+                "ram_req": 2.0,
+                "input_size": 0.25,
+                "replicas": 4
+            }
+        },
+        {
+            "serv_2": {
+                "cpu_cycles_per_deploy": 0.4,
+                "cpu_cycles_per_request": 0.001,
+                "ram_req": 1.0,
+                "input_size": 0.30,
+                "replicas": 4
+            }
+        },
+        {
+            "serv_3": {
+                "cpu_cycles_per_deploy": 1.1,
+                "cpu_cycles_per_request": 0.0025,
+                "ram_req": 1.0,
+                "input_size": 0.50,
+                "replicas": 4
+            }
+        }
+    ]
+}

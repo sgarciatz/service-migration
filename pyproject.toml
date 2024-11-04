@@ -1,0 +1,22 @@
+[project]
+name = "service-migration"
+version = "2024.9.13"
+authors = [
+    {name = "Santiago García Gil"}
+]
+license = {file = "LICENSE.md"}
+requires-python = ">= 3.10.12"
+dependencies = [
+    "gurobipy>=11.0.0",
+    "numpy>=2.1.1",
+    "pip>=22.0.0",
+    "setuptools>=59.0.0",
+    "pandas>=2.2.2
+]
+
+[build-system]
+requires = ["setuptools >= 61.0"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+py-modules = []
